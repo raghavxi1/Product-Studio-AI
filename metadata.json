@@ -1,0 +1,5 @@
+{
+  "name": "ProductStudio AI",
+  "description": "Use AI to edit your product photos with simple text prompts. Remove backgrounds, add filters, and more, powered by Gemini.",
+  "requestFramePermissions": []
+}
