@@ -2,17 +2,12 @@
 
 > Transform product photos into professional e-commerce listings in seconds using AI-powered editing tools.
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success)](https://productstudio.ai)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Made with Gemini API](https://img.shields.io/badge/Powered%20by-Gemini%20API-orange)](https://ai.google.dev/)
 
-[**🚀 Live Demo**](https://productstudio.ai) | [**📖 Documentation**](https://docs.productstudio.ai) | [**💬 Support**](https://support.productstudio.ai)
+ | [**📖 Documentation**](https://docs.productstudio.ai) | [**💬 Support**](https://support.productstudio.ai)
 
----
 
-## 📸 Screenshots
-
-![ProductStudio AI Editor](https://via.placeholder.com/800x400?text=ProductStudio+AI+Editor)
 
 ---
 
